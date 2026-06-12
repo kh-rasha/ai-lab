@@ -39,13 +39,7 @@ public class AiClientService {
 
         System.out.println("API Key loaded successfully");
 
-        String result = analyzeText("I love Java programming");
 
-        System.out.println(result);
-
-        AiResponseDto dto = parseResponse(result);
-
-        System.out.println(dto);
     }
     public String analyzeText(String userInput) {
 
