@@ -78,4 +78,3 @@ För att minska dessa problem har jag lagt till:
 * Standardsvar vid fel
 
 Detta gör applikationen mer stabil och mer lämplig för verkliga användningsområden.
-.
